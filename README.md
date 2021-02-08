@@ -9,11 +9,11 @@
 const dario = {
   code: [Swift, Objective C, SwiftUI, Java],
   tools: [XCode, Android Studio],
-  design patterns: ["MVVM", "MVP", "MVC"],
+  designPatterns: ["MVVM", "MVP", "MVC"],
  challenge: "Finish my versión of Twitter with Swift"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="60"> <em><b>hi, I'll be happy to meet you more!</b> :)
 
 ---
