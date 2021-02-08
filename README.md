@@ -10,7 +10,7 @@ const dario = {
   code: [Swift, Objective C, SwiftUI, Java],
   tools: [XCode, Android Studio],
   designPatterns: [MVVM, MVP, MVC],
- challenge: "Finish my versión of Twitter with Swift"
+  challenge: "Finish my versión of Twitter with Swift"
 }
 ```
 <em><b>hi, I'll be happy to meet you!</b> :)</em>
