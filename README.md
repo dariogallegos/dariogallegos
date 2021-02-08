@@ -14,6 +14,6 @@ const dario = {
 }
 ```
 
-<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="60"> <em><b>hi, I'll be happy to meet you more!</b> :)
+<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="60"> <em><b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
