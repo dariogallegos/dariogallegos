@@ -14,5 +14,3 @@ const dario = {
 }
 ```
 <em><b>hi, I'll be happy to meet you!</b> :)</em>
-
----
