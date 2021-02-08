@@ -1,5 +1,5 @@
 <h2> Hi, I'm Darío Gallegos! </h2>
-<p>Software Enginner at <a href="https://ucm.es//">University Complutense of Madrid </a>
+<p>Software Enginner at <a href="https://ucm.es//">University Complutense of Madrid </a></br>
 iOS Developer at <a href="https://www.bbvaitspain.com/">BBVA IT</a>
 </p>
 
