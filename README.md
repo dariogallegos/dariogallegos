@@ -6,17 +6,11 @@
 [![Linkedin: Darío Gallegos](https://img.shields.io/badge/-dariogallegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariogallegos/)](https://www.linkedin.com/in/darío-fernando-gallegos-quishpe)
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const dario = {
+  code: [Swift, Objective C, SwiftUI, Java],
+  tools: [XCode, Android Studio],
+  design patterns: ["MVVM", "MVP", "MVC"],
+ challenge: "Finish my versión of Twitter with Swift"
 }
 ```
 
