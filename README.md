@@ -9,7 +9,7 @@
 const dario = {
   code: [Swift, Objective C, SwiftUI, Java],
   tools: [XCode, Android Studio],
-  designPatterns: ["MVVM", "MVP", "MVC"],
+  designPatterns: [MVVM, MVP, MVC],
  challenge: "Finish my versión of Twitter with Swift"
 }
 ```
