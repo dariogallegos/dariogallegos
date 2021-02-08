@@ -13,8 +13,6 @@ const dario = {
  challenge: "Finish my versión of Twitter with Swift"
 }
 ```
-
-<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="100"> 
 <em><b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
