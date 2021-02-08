@@ -3,7 +3,7 @@
   </br>iOS Developer at <a href="https://www.bbvaitspain.com/">BBVA IT</a>
 </em></p>
 
-[![Linkedin: Darío Gallegos](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariogallegos/)](https://www.linkedin.com/in/darío-fernando-gallegos-quishpe)
+[![Linkedin: Darío Gallegos](https://img.shields.io/badge/-dariogallegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariogallegos/)](https://www.linkedin.com/in/darío-fernando-gallegos-quishpe)
 
 ```javascript
 const thai = {
