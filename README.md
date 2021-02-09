@@ -1,6 +1,6 @@
 <h2> Hi, I'm Darío Gallegos! </h2>
 <p>Software Enginner at <a href="https://ucm.es//">University Complutense of Madrid </a></br>
-iOS Developer at <a href="https://www.bbvaitspain.com/">BBVA IT</a>
+iOS Developer
 </p>
 
 [![Linkedin: Darío Gallegos](https://img.shields.io/badge/-dariogallegos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariogallegos/)](https://www.linkedin.com/in/darío-fernando-gallegos-quishpe)
