@@ -7,7 +7,7 @@ iOS Developer
 
 ```javascript
 const dariogallegos = {
-  code: [Swift, Objective C],
+  code: [SwiftUI, Swift, Objective C],
   tools: [XCode],
   designPatterns: [MVVM, MVP, MVC],
   challenge: "Finish my custom Twitter version with Swift"
